@@ -1,0 +1,24 @@
+{
+  "name": "sp2020demo",
+  "version": "1.0.0",
+  "description": "A brief demo of node.js project structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse330-spring-2020/node-demo.git"
+  },
+  "author": "Connor Stevens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse330-spring-2020/node-demo/issues"
+  },
+  "homepage": "https://github.com/cse330-spring-2020/node-demo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2",
+    "url": "^0.11.0"
+  }
+}
